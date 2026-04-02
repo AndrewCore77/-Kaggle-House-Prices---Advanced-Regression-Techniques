@@ -57,7 +57,6 @@
 ```text
 .
 ├── README.md
-├── requirements.txt
 ├── data
 │   ├── data_description.txt
 │   ├── sample_submission.csv
